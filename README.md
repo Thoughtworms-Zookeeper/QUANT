@@ -1,1 +1,1 @@
-# QUANT aaaa
+# QUANT
