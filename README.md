@@ -1,1 +1,1 @@
-# QUANT aaa
+# QUANT
